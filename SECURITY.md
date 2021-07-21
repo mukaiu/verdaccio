@@ -4,11 +4,13 @@
 
 The following table describes the versions of this project that are currently supported with security updates:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 2.x     | :x:                |
-| 3.x     | :x:                |
-| 4.x     | :white_check_mark: |
+| Version   | Supported          |
+| --------- | ------------------ |
+| 2.x       | :x:                |
+| 3.x       | :x:                |
+| 4.x       | :x:                |
+| 5.x       | :white_check_mark: |
+| 6.x alpha | :x:                |
 
 ## Responsible disclosure security policy
 
@@ -30,7 +32,7 @@ If you discover a security vulnerability, please use one of the following means 
 
 Note that time-frame and processes are subject to each program’s own policy.
 
-- Report the security issue to the project maintainers directly at verdaccio@pm.me. If the report contains highly sensitive information, please be advised to encrypt your findings using our [PGP key](https://verdaccio.nyc3.digitaloceanspaces.com/gpg/publickey.verdaccio@pm.me.asc) which is also available in this document.
+- Report the security issue to the project maintainers directly at verdaccio@pm.me. If the report contains highly sensitive information, please be advised to encrypt your findings using our [PGP key](https://cdn.verdaccio.dev/gpg/publickey.verdaccio@pm.me.asc) which is also available in this document.
 
 Your efforts to responsibly disclose your findings are sincerely appreciated and will be taken into account to acknowledge your contributions.
 
